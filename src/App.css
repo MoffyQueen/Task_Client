@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;500&display=swap');
+
+.add{
+    color: purple;
+}
+.edit-btn{
+    width: 126px;
+    height: 50px;
+    background-color: #974FD0;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.del-btn{
+    width: 151px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: white;
+    color: #974FD0;
+    border-color: #974FD0;
+}
+
+
+.line{
+    width: 95%;
+
+}
+.task-box{
+    width: 100%;
+    height: 287px;
+    border-radius: 10px;
+}
+.back{
+    color: #974FD0;
+}
+.title-input{
+    width: 100%;
+    height: 102px;
+    display: inline-block;
+    outline: none;
+}
+
+.Task-header{
+    position: relative;
+    top: 20px;
+}
+
+.area{
+    width: 100%;
+    outline: none;
+}
+.select-option{
+    width: 100%;
+    height: 102px;
+    outline: none;
+}
+
+.form-done{
+    width: 100%;
+    height: 84px;
+    background-color: #974FD0;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+@media(min-width:740px){
+ .edit-btn{
+    width: 100px;
+ }   
+ .del-btn{
+    width: 100px;
+ }
+}

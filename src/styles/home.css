@@ -1,0 +1,30 @@
+.home-manage h3{
+font-weight: 500;
+font-size: 50px;
+}
+.home-manage .duty{
+    font-weight: 500;
+    font-size: 50px;
+    color: purple;
+}
+.home-manage p{
+font-weight: 400;
+font-size: 20px;
+width: 535px;
+height: 153px;
+}
+.home-manage button{
+    width: 201px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #974FD0;
+    color: white;
+    font-weight: 500;
+    font-size: 24px;
+    border: none;
+}
+
+.home-img{
+    width: 418px;
+    height: 396px;
+}
